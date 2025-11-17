@@ -1,7 +1,7 @@
- FABELS – A MERN Stack Book Store Project
+ Book Marketplace – A MERN Stack Book Store Project
 
  Description
-FABELS is a simple and responsive Book Store Project built using the MERN Stack (MongoDB, Express.js, React, and Node.js). It demonstrates essential CRUD operations and integrates Firebase Authentication to allow users to securely sign in using Google or Email.
+ Book Marketplace is a simple and responsive Book Store Project built using the MERN Stack (MongoDB, Express.js, React, and Node.js). It demonstrates essential CRUD operations and integrates Firebase Authentication to allow users to securely sign in using Google or Email.
 
  Features
  Backend CRUD:
